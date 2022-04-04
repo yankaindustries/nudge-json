@@ -8,6 +8,7 @@
 	{
 		"requiredInstallationDate": "2022-03-25T00:00:00Z",
 		"requiredMinimumOSVersion": "12.3",
-		"targetedOSVersionsRule": "11"
+		"targetedOSVersionsRule": "11",
+		"actionButtonPath": "jamfselfservice://content?entity=policy&id=264&action=execute"
 	}]
 }
